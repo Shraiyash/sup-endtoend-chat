@@ -1,6 +1,6 @@
 This application was born out of a desire to bring a truly modern, sleek texting experience to mobile devices—something many legacy chat apps have struggled to deliver. We wanted an interface that feels fresh and intuitive in 2025, with the kind of responsive layout, rich media support, and interactive polish that users expect today but often don’t find.  
 
-![Uploading new-back-sup.png…]()
+<img width="1512" alt="new-back-sup" src="https://github.com/user-attachments/assets/570b9c70-d8f0-4a60-bff4-f72a4672d42d" />
 
 
 ## 🚀 Main Features  
