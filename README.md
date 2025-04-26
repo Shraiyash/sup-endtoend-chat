@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+This application was born out of a desire to bring a truly modern, sleek texting experience to mobile devices—something many legacy chat apps have struggled to deliver. We wanted an interface that feels fresh and intuitive in 2025, with the kind of responsive layout, rich media support, and interactive polish that users expect today but often don’t find.  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Uploading new-back-sup.png…]()
 
-## Get started
 
-1. Install dependencies
+## 🚀 Main Features  
+- **Real-Time One-on-One Chat**  
+  Instant messaging powered by Firebase Firestore, with smooth image loading and auto-scroll as new messages arrive.  
+- **End-to-End Encryption**  
+  All messages are protected with end-to-end encryption using the Signal Protocol (via libsignal-protocol) and NaCl cryptography (TweetNaCl), so only sender and recipient can read them.  
+- **Instagram-Style Stories**  
+  View and post ephemeral “stories” in a full-screen, tap-and-swipe interface.  
+- **Contact Management & Search**  
+  Browse your address book, search by name, and start conversations in seconds.  
+- **Profile Editing**  
+  Update your display name, email, password, phone number, and avatar—all in one place.  
+- **Custom Bottom Navigation**  
+  Navigate seamlessly between Home, Chats, Profile, and more using a sleek, animated tab bar.  
 
+## 🛠️ Technology Stack  
+- **React Native & Expo Router** for cross-platform UI and file-based navigation  
+- **Firebase Authentication** for secure user sign-in and sign-up  
+- **Firestore Database** for real-time message storage and synchronization  
+
+## 🏁 Getting Started  
+
+1. **Clone the repo**  
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   git clone https://github.com/your-username/react-native-modern-chat.git
+   cd react-native-modern-chat
