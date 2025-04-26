@@ -28,3 +28,7 @@ This application was born out of a desire to bring a truly modern, sleek texting
    ```bash
    git clone https://github.com/your-username/react-native-modern-chat.git
    cd react-native-modern-chat
+
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for details
